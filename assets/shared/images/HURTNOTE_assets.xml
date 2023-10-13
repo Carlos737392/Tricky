@@ -1,17 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="HURTNOTE_assets.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="blue hold end0000" x="5" y="5" width="50" height="64"/>
-	<SubTexture name="blue hold piece0000" x="60" y="5" width="50" height="44"/>
-	<SubTexture name="blue0000" x="115" y="5" width="157" height="154"/>
-	<SubTexture name="green hold end0000" x="5" y="5" width="50" height="64"/>
-	<SubTexture name="green hold piece0000" x="60" y="5" width="50" height="44"/>
-	<SubTexture name="green0000" x="277" y="5" width="157" height="154"/>
-	<SubTexture name="purple0000" x="5" y="164" width="154" height="157"/>
-	<SubTexture name="pruple end hold0000" x="5" y="5" width="50" height="64"/>
-	<SubTexture name="purple hold piece0000" x="60" y="5" width="50" height="44"/>
-	<SubTexture name="red hold end0000" x="5" y="5" width="50" height="64"/>
-	<SubTexture name="red hold piece0000" x="60" y="5" width="50" height="44"/>
-	<SubTexture name="red0000" x="164" y="164" width="154" height="157"/>
+<SubTexture name="blue0000" x="1514" y="344" width="208" height="309" frameX="-22" frameY="-17" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0001" x="217" y="1428" width="217" height="325" frameX="-17" frameY="-9" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0002" x="1076" y="1428" width="217" height="303" frameX="-12" frameY="-27" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0003" x="1049" y="1082" width="212" height="344" frameX="-16" frameY="-13" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0004" x="1081" y="0" width="216" height="353" frameX="-12" frameY="-13" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0005" x="1081" y="353" width="215" height="353" frameX="-16" frameY="-17" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0006" x="209" y="1082" width="209" height="345" frameX="-16" frameY="-24" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0007" x="1078" y="729" width="217" height="349" frameX="-12" frameY="-22" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0008" x="1726" y="674" width="214" height="336" frameX="-15" frameY="-27" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0009" x="0" y="0" width="214" height="367" frameX="-22" frameY="-23" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0010" x="225" y="367" width="225" height="361" frameX="-13" frameY="-23" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue0011" x="1940" y="303" width="200" height="283" frameX="-26" frameY="-31" frameWidth="256" frameHeight="438" />
+<SubTexture name="blue hold end0000" x="1940" y="1435" width="78" height="51" frameX="0" frameY="0" frameWidth="78" frameHeight="55" />
+<SubTexture name="blue hold piece0000" x="2018" y="1435" width="78" height="44" frameX="0" frameY="0" frameWidth="78" frameHeight="44" />
+<SubTexture name="green0000" x="868" y="1428" width="208" height="308" frameX="-22" frameY="-17" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0001" x="434" y="1428" width="217" height="325" frameX="-17" frameY="-8" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0002" x="1293" y="1428" width="217" height="303" frameX="-12" frameY="-27" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0003" x="418" y="1082" width="213" height="345" frameX="-15" frameY="-12" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0004" x="856" y="361" width="216" height="354" frameX="-12" frameY="-12" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0005" x="0" y="729" width="215" height="353" frameX="-16" frameY="-17" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0006" x="0" y="1082" width="209" height="346" frameX="-16" frameY="-23" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0007" x="1297" y="0" width="217" height="349" frameX="-12" frameY="-22" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0008" x="1726" y="1010" width="214" height="336" frameX="-15" frameY="-27" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0009" x="214" y="0" width="214" height="367" frameX="-22" frameY="-22" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0010" x="0" y="367" width="225" height="362" frameX="-13" frameY="-22" frameWidth="256" frameHeight="438" />
+<SubTexture name="green0011" x="1940" y="586" width="199" height="283" frameX="-26" frameY="-31" frameWidth="256" frameHeight="438" />
+<SubTexture name="green hold end0000" x="1940" y="1435" width="78" height="51" frameX="0" frameY="0" frameWidth="78" frameHeight="55" />
+<SubTexture name="green hold piece0000" x="2018" y="1435" width="78" height="44" frameX="0" frameY="0" frameWidth="78" frameHeight="44" />
+<SubTexture name="purple0000" x="1514" y="653" width="208" height="309" frameX="-22" frameY="-16" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0001" x="651" y="1428" width="217" height="325" frameX="-17" frameY="-8" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0002" x="1510" y="1428" width="217" height="303" frameX="-12" frameY="-26" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0003" x="1261" y="1082" width="213" height="344" frameX="-15" frameY="-12" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0004" x="215" y="729" width="216" height="353" frameX="-12" frameY="-12" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0005" x="431" y="729" width="215" height="353" frameX="-16" frameY="-17" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0006" x="631" y="1082" width="209" height="345" frameX="-16" frameY="-23" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0007" x="1297" y="349" width="217" height="349" frameX="-12" frameY="-21" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0008" x="1726" y="0" width="214" height="337" frameX="-15" frameY="-26" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0009" x="428" y="0" width="214" height="367" frameX="-22" frameY="-22" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0010" x="450" y="367" width="225" height="361" frameX="-13" frameY="-22" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple0011" x="1940" y="869" width="199" height="283" frameX="-26" frameY="-30" frameWidth="256" frameHeight="437" />
+<SubTexture name="purple hold end0000" x="1940" y="1435" width="78" height="51" frameX="0" frameY="0" frameWidth="78" frameHeight="55" />
+<SubTexture name="purple hold piece0000" x="2018" y="1435" width="78" height="44" frameX="0" frameY="0" frameWidth="78" frameHeight="44" />
+<SubTexture name="red0000" x="1514" y="962" width="208" height="309" frameX="-21" frameY="-17" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0001" x="0" y="1428" width="217" height="326" frameX="-17" frameY="-9" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0002" x="1940" y="0" width="217" height="303" frameX="-12" frameY="-28" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0003" x="1514" y="0" width="212" height="344" frameX="-15" frameY="-13" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0004" x="646" y="729" width="217" height="353" frameX="-11" frameY="-13" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0005" x="863" y="729" width="215" height="352" frameX="-16" frameY="-18" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0006" x="840" y="1082" width="209" height="345" frameX="-15" frameY="-24" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0007" x="1297" y="698" width="217" height="349" frameX="-11" frameY="-22" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0008" x="1726" y="337" width="214" height="337" frameX="-15" frameY="-27" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0009" x="642" y="0" width="214" height="366" frameX="-22" frameY="-24" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0010" x="856" y="0" width="225" height="361" frameX="-12" frameY="-23" frameWidth="256" frameHeight="438" />
+<SubTexture name="red0011" x="1940" y="1152" width="200" height="283" frameX="-25" frameY="-31" frameWidth="256" frameHeight="438" />
+<SubTexture name="red hold end0000" x="1940" y="1435" width="78" height="51" frameX="0" frameY="0" frameWidth="78" frameHeight="55" />
+<SubTexture name="red hold piece0000" x="2018" y="1435" width="78" height="44" frameX="0" frameY="0" frameWidth="78" frameHeight="44" />
 </TextureAtlas>
