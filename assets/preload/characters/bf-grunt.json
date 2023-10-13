@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF1 Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF1 Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF1 Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF1 Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF1 Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				374,
+				115
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF1 Left Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				162
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF1 Down Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				160
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF1 Up Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				372,
+				119
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF1 Right Miss0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF1_Spritesheet",
+	"position": [
+		90,
+		390
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		280,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
