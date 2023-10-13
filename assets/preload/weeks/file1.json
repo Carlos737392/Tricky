@@ -1,0 +1,26 @@
+{
+  "songs": [
+    [
+      "Violence",
+      "tricky",
+      [
+        255,
+        255,
+        255
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "difficulties": "normal,hard",
+  "storyName": "",
+  "weekBefore": "",
+  "weekName": "Tricky",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
